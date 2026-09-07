@@ -1,0 +1,14 @@
+{
+  "name": "rirc-riyad-bot",
+  "version": "1.0.0",
+  "description": "RIRC Riyad WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
